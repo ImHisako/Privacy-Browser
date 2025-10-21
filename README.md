@@ -55,7 +55,7 @@ Use secure DNS providers like NextDNS or Mullvad DNS:
 3. Choose a custom provider and enter one of the following URLs:
    - NextDNS: (https://nextdns.io/) For make your account.
    - Mullvad DNS: `base.dns.mullvad.net` (https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
-   - Dns0.eu Zero: `193.110.81.9` Alternative `185.253.5.9` (https://www.dns0.eu/)
+   - Quad9: `9.9.9.9` Alternative `149.112.112.112` (https://quad9.net/)
 
 🕵🏻 Search Engine Privacy
 Replace default search engines with privacy-focused alternatives like:
