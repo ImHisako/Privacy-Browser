@@ -72,4 +72,4 @@ Sostituisci i motori di ricerca predefiniti con alternative orientate alla priva
 * [DuckDuckGo](https://duckduckgo.com/) - Non traccia le ricerche né la cronologia di navigazione.
 
 💱 Migrare Browser Senza Perdere Dati con Fox Recovery
-* [Fox Recovery](https://github.com/Hisako/Fox-Recovery) - Programma per cambiare browser senza dover effettuare nuovamente l’accesso.
+* [Fox Recovery](https://github.com/ImHisako/Fox-Recovery) - Programma per cambiare browser senza dover effettuare nuovamente l’accesso.
