@@ -68,4 +68,4 @@ Replace default search engines with privacy-focused alternatives like:
 * [DuckDuckGo](https://duckduckgo.com/) - DuckDuckGo is a search engine that does not track your searches or browsing history.
 
 💱 Migrating Browsers Without Losing Data Using Fox Recovery
-* [Fox Recovery](https://github.com/Hisako/Fox-Recovery) - A program to change browsers without logging in a second time
+* [Fox Recovery](https://github.com/ImHisako/Fox-Recovery) - A program to change browsers without logging in a second time
