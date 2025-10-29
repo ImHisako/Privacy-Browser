@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇮🇹 Italiano](README.it.md)
+
 # 🖥️ Browser Extensions Collection
 Welcome to my personal repository! Here, I curate the best browser extensions that enhance productivity, security, and browsing experience.
 
