@@ -14,7 +14,7 @@ Other good forks of firefox :
 * [Librewolf](https://librewolf.net/)
 * [Tor](https://www.torproject.org/it/)
 
-Chromium Based Browsers
+Chromium Based Browsers :
 * [Cromite](https://github.com/uazo/cromite/releases)
 
 📦 Essential Extensions
