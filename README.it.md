@@ -7,12 +7,15 @@ Benvenuto nel mio archivio personale! Qui raccolgo le migliori estensioni per br
 Utilizzo principalmente **Waterfox** e **Zen Browser**, ma la maggior parte delle estensioni elencate è compatibile anche con i browser basati su Chromium.
 
 * [Waterfox](https://www.waterfox.net/)
-* [Zen Browser](https://zen-browser.app/)
+* [Mullvad Browser](https://mullvad.net/it)
 
 Altri buoni fork di Firefox:
-* [Mullvad Browser](https://mullvad.net/it)
+* [Zen Browser](https://zen-browser.app/)
 * [Librewolf](https://librewolf.net/)
 * [Tor](https://www.torproject.org/it/)
+
+Browsers basati su Chromium : 
+* [Cromite](https://github.com/uazo/cromite/releases)
 
 📦 Estensioni Essenziali
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Blocca pubblicità, tracker e domini malevoli.
