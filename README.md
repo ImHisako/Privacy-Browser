@@ -7,12 +7,15 @@ Welcome to my personal repository! Here, I curate the best browser extensions th
 I primarily use [**Waterfox**,**Zen Browser**], but most of the extensions listed here are compatible with Chromium-based browsers.
 
 * [Waterfox](https://www.waterfox.net/)
-* [Zen Browser](https://zen-browser.app/)
+* [Mullvad Browser](https://mullvad.net/it)
 
 Other good forks of firefox :
-* [Mullvad Browser](https://mullvad.net/it)
+* [Zen Browser](https://zen-browser.app/)
 * [Librewolf](https://librewolf.net/)
 * [Tor](https://www.torproject.org/it/)
+
+Chromium Based Browsers
+* [Cromite](https://github.com/uazo/cromite/releases)
 
 📦 Essential Extensions
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Blocks ads, trackers, and malware domains.
