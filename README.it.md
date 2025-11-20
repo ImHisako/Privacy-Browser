@@ -4,7 +4,7 @@
 Benvenuto nel mio archivio personale! Qui raccolgo le migliori estensioni per browser che migliorano produttività, sicurezza ed esperienza di navigazione.
 
 🌐 Browser che utilizzo:
-Utilizzo principalmente **Waterfox** e **Zen Browser**, ma la maggior parte delle estensioni elencate è compatibile anche con i browser basati su Chromium.
+Utilizzo principalmente **Waterfox** e **Mullvad Browser**, ma la maggior parte delle estensioni elencate è compatibile anche con i browser basati su Chromium.
 
 * [Waterfox](https://www.waterfox.net/)
 * [Mullvad Browser](https://mullvad.net/it)
