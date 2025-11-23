@@ -30,7 +30,7 @@ Browsers basati su Chromium :
 
 ⚙️ Altre Buone Estensioni
 * [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Rimuove gli elementi di tracciamento dagli URL.
-* [[KeePassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)] - Un gestore di password sicuro e open source.
+* [KeePassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/) - Un gestore di password sicuro e open source.
 * [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Blocca JavaScript e altri contenuti potenzialmente pericolosi.
 * [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Protegge dal fingerprinting tramite canvas.
 * [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Scansiona le porte aperte per rilevare vulnerabilità.
