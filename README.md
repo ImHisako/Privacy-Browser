@@ -30,7 +30,7 @@ Chromium Based Browsers :
 
 ⚙️ Other good extensions
 * [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Removes tracking elements from URLs.
-* [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - A secure, open-source password manager.
+* [[KeePassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)] - A secure, open-source password manager.
 * [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Blocks JavaScript and other potentially harmful content.
 * [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Protects against canvas fingerprinting.
 * [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Scans for open ports to detect vulnerabilities.
