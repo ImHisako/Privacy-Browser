@@ -35,7 +35,6 @@ Browsers basati su Chromium :
 * [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Blocca JavaScript e altri contenuti potenzialmente pericolosi.
 * [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Protegge dal fingerprinting tramite canvas.
 * [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Scansiona le porte aperte per rilevare vulnerabilità.
-* [BP Block Font Fingerprint](https://addons.mozilla.org/en-US/firefox/addon/bp-block-font-fingerprint/) - Spoofer Font Fingerprint.
 * [Startpage Privacy Protection](https://addons.mozilla.org/en-US/firefox/addon/startpage-privacy-protection/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Aumenta la privacy durante l’uso del motore di ricerca Startpage.
 * [Snowflake](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Aiuta gli utenti a bypassare la censura agendo come proxy.
 * [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Simula i dati del browser per evitare il fingerprinting.
