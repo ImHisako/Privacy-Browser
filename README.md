@@ -16,6 +16,7 @@ Other good forks of firefox :
 
 Chromium Based Browsers :
 * [Cromite](https://github.com/uazo/cromite/releases)
+* [Helium](https://helium.computer/)
 
 📦 Essential Extensions
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Blocks ads, trackers, and malware domains.
