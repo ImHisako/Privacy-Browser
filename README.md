@@ -6,6 +6,18 @@ Welcome to my personal repository! Here, I curate the best browser extensions th
 🌐 Browser I use:
 I primarily use [**Waterfox**,**Mullvad Browser**], but most of the extensions listed here are compatible with Chromium-based browsers.
 
+> [!WARNING]  
+> **⚠️ I DO NOT use Chromium-based browsers** (Chrome, Edge, Brave, Vivaldi, etc.) due to serious issues:  
+> 
+> - **Monopoly**: They dominate 65%+ of the browser market, stifling competition  
+> - **Poor Security/Privacy**:  
+>   - **Bluetooth API**: Tracking via nearby Bluetooth devices  
+>   - **Network Information API**: Exposes connection type and network quality  
+>   - **Battery API**: Fingerprinting via device battery level  
+>   - **Other risky APIs**: Web USB, CPU/GPU usage, localhost APIs  
+> 
+> **I only use Firefox-based browsers** (Waterfox, Mullvad, Librewolf, Zen) for independence and native privacy protections.
+
 * [Waterfox](https://www.waterfox.net/)
 * [Mullvad Browser](https://mullvad.net/it)
 
