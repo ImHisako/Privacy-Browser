@@ -6,6 +6,18 @@ Benvenuto nel mio archivio personale! Qui raccolgo le migliori estensioni per br
 🌐 Browser che utilizzo:
 Utilizzo principalmente **Waterfox** e **Mullvad Browser**, ma la maggior parte delle estensioni elencate è compatibile anche con i browser basati su Chromium.
 
+> [!WARNING]  
+> **⚠️ NON uso browser basati su Chromium** (Chrome, Edge, Brave, Vivaldi, ecc.) per gravi problemi di:  
+> 
+> - **Monopolio**: Dominano il 65%+ del mercato browser, soffocando la competizione  
+> - **Sicurezza/Privacy scadenti**:  
+>   - **Bluetooth API**: Tracking tramite dispositivi Bluetooth vicini  
+>   - **Network Information API**: Espone tipo di connessione e qualità rete  
+>   - **Battery API**: Fingerprinting tramite livello batteria dispositivo  
+>   - **Altre API rischiose**: Web USB, CPU/GPU usage, localhost APIs  
+> 
+> **Uso solo browser Firefox-based** (Waterfox, Mullvad, Librewolf, Zen) per indipendenza e protezioni privacy native.
+
 * [Waterfox](https://www.waterfox.net/)
 * [Mullvad Browser](https://mullvad.net/it)
 
